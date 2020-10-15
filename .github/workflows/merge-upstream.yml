@@ -9,7 +9,7 @@
 name: Merge Upstream
 
 on:
-  push:
+#   push:
 #     branches: 
 #       - master
 #   schedule:
